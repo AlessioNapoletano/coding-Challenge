@@ -1,0 +1,66 @@
+*{
+  font-family: arial;
+}
+body{
+  background-image: url("background.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div.container{
+  background: rgba(0, 0, 0, 0.5);
+  margin:auto;
+  width:800px;
+  padding:80px;
+  border-radius:20px;
+}
+#logo{
+  width: 200px;
+  height: 100px;
+  display: block;
+  margin: auto;
+}
+#logotxt{
+  font-size: 30px;
+  color:#35df35;
+  text-align: center;
+}
+div.prenotation-row{
+  border: 1px solid #21bf21;
+  padding:5px;
+  background-color: #21bf21;
+  text-align: center;
+}
+div.infobar{
+  margin:5px;
+}
+h2.monopattino{
+  color:white;
+  display: inline-block;
+  margin: 10px 0px auto;
+}
+p{
+  margin:auto;
+  color:white;
+}
+div.chargebar-1{
+  padding: 13px;
+  border:1px solid #eca523;
+  border-radius: 5px;
+  background-color: #eca523;
+  width: 200px;
+}
+div.chargebar-2{
+  padding: 13px;
+  border:1px solid #18a818;
+  border-radius: 5px;
+  background-color: #18a818;
+  width: 600px;
+}
+div.chargebar-3{
+  padding: 13px;
+  border:1px solid #d20c0c;
+  border-radius: 5px;
+  background-color: #d20c0c;
+  width: 100px;
+}
